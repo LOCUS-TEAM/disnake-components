@@ -6,7 +6,7 @@ bot = ComponentsBot("!")
 or you can just override the methods yourself
 
 bot = disnake.ext.commands.Bot("!")
-PycordComponents(bot)
+DisnakeComponents(bot)
 """
 
 

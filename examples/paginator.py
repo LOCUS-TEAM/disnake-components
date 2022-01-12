@@ -2,7 +2,7 @@ from typing import List
 
 from disnake.abc import Messageable
 from disnake_components import (
-    PycordComponents,
+    DisnakeComponents,
     Button,
     ButtonStyle,
     Select,
@@ -14,7 +14,7 @@ from disnake_components import (
 class Paginator:
     def __init__(
         self,
-        client: PycordComponents,
+        client: DisnakeComponents,
         channel: Messageable,
         contents: List[str],
         use_select: bool = False,

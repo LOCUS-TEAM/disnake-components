@@ -55,9 +55,8 @@ You can see many examples
 
 This project is under the MIT License.
 
-## Repos using PycordComponents
- * [PycordPaginator](https://pypi.org/project/PycordPaginator)
+## Repos using DisnakeComponents
 
 ## How-to use
  * Every discord.py, discord, DiscordComponent, discord_components mention should be changed to<br />
- disnake, pycord, PycordComponent, py_cord_component
+ disnake, disnake, disnakeComponent, disnake_component
