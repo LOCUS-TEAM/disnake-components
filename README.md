@@ -31,7 +31,7 @@ if you have any questions, feel free to ask it on this server.
 
 ## Docs
 
-- [Gitbook version](https://devkiki7000.gitbook.io/discord-components) (Up to
+- [Gitbook version](https://kms0219kms.gitbook.io/disnake-components) (Up to
   date)
 - [Wiki Version](https://github.com/LOCUS-TEAM/disnake-components/wiki)
   (Up to date)
