@@ -1,6 +1,6 @@
 from typing import Optional, List, Union
 
-from discord import (
+from disnake import (
     Message,
     Embed,
     Attachment,
@@ -9,9 +9,9 @@ from discord import (
     File,
     MessageFlags,
 )
-from discord.http import Route, HTTPClient
-from discord.abc import Messageable, Snowflake
-from discord.ext.commands import Context
+from disnake.http import Route, HTTPClient
+from disnake.abc import Messageable, Snowflake
+from disnake.ext.commands import Context
 
 from .utils import _get_components_json, _form_files
 from .component import _get_component_type, ActionRow, Component

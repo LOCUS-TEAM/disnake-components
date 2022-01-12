@@ -1,7 +1,7 @@
 from typing import List
 
-from discord import Client, File
-from discord.http import Route
+from disnake import Client, File
+from disnake.http import Route
 
 from .utils import _form_files
 

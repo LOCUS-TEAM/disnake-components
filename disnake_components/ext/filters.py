@@ -1,7 +1,7 @@
-from discord import Message, Guild, TextChannel, User
+from disnake import Message, Guild, TextChannel, User
 
-from py_cord_components.interaction import Interaction
-from py_cord_components.component import Component, Button, SelectOption
+from disnake_components.interaction import Interaction
+from disnake_components.component import Component, Button, SelectOption
 
 
 __all__ = (

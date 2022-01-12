@@ -1,7 +1,7 @@
 from typing import List
 
-from discord.abc import Messageable
-from py_cord_components import (
+from disnake.abc import Messageable
+from disnake_components import (
     PycordComponents,
     Button,
     ButtonStyle,

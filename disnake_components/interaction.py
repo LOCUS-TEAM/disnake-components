@@ -1,6 +1,6 @@
 from typing import List, Union, Optional
 
-from discord import (
+from disnake import (
     User,
     Embed,
     AllowedMentions,
@@ -12,8 +12,8 @@ from discord import (
     MessageFlags,
     File,
 )
-from discord.state import ConnectionState
-from discord.abc import Messageable
+from disnake.state import ConnectionState
+from disnake.abc import Messageable
 
 from enum import IntEnum
 

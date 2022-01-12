@@ -1,6 +1,6 @@
 from typing import List, Union, Optional
 
-from discord import File
+from disnake import File
 
 from aiohttp import FormData
 from json import dumps

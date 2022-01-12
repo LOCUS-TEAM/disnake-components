@@ -1,13 +1,13 @@
 from typing import Union
 
-from discord import (
+from disnake import (
     Client,
     Message,
     User,
     Guild,
 )
-from discord.ext.commands import Bot
-from discord.abc import Messageable
+from disnake.ext.commands import Bot
+from disnake.abc import Messageable
 
 from .component import Component
 from .http import HTTPClient

@@ -1,5 +1,5 @@
-from discord.ext.commands import command, Cog
-from py_cord_components import (
+from disnake.ext.commands import command, Cog
+from disnake_components import (
     Button,
     ButtonStyle,
     Select,

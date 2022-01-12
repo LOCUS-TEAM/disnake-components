@@ -1,11 +1,11 @@
-from py_cord_components import Button, Select, SelectOption, ComponentsBot
+from disnake_components import Button, Select, SelectOption, ComponentsBot
 
 
 bot = ComponentsBot("!")
 """
 or you can just override the methods yourself
 
-bot = discord.ext.commands.Bot("!")
+bot = disnake.ext.commands.Bot("!")
 PycordComponents(bot)
 """
 
