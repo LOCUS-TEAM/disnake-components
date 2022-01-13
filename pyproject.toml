@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "disnake-components"
-version = "1.0.0"
+version = "1.0.1"
 description = "An unofficial library for disnake components."
 authors = ["SSKATE <me@sskate.me>"]
 license = "MIT"
