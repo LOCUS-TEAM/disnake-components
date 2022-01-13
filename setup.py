@@ -13,7 +13,15 @@ with open("README.md", "r", encoding="utf-8") as f:
 with open("requirements.txt", "r", encoding="utf-8") as f:
     requirements = f.read()
 
-VERSION = 1.0.1
+try:
+    VERSION = (
+        environ["TRAVIS_TAG"].lstrip("v")
+        if environ["TRAVIS"] == "true"
+        else environ["VERSION_NUMBER"]
+    )
+except KeyError:
+    with open(path.join(HERE, PACKAGE_NAME, "const.py"), encoding="utf-8") as fp:
+        VERSION = re.search('__version__ = "([^"]+)"', fp.read()).group(1)
 
 extras = {
     "lint": ["black", "flake8", "isort"],
