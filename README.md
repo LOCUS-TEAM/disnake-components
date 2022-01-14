@@ -6,7 +6,7 @@
         <a href="https://www.codefactor.io/repository/github/LOCUS-TEAM/disnake-components"><img src="https://www.codefactor.io/repository/github/LOCUS-TEAM/disnake-components/badge" alt="CodeFactor" /></a>
         <a href="https://discord.gg/BmuYyug3vd"><img alt="Discord" src="https://img.shields.io/discord/866331113512370186?logo=discord&style=flat-squareh"></a>
         <a href="https://pepy.tech/project/disnake-components"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/v/disnake-components?style=flat-squareh"></a>
-        <a href="https://pypi.org/project/disnake-components/"><img src="https://pepy.tech/badge/disnake-components/month" /></a>
+        <a href="https://pypi.org/project/disnake-components/"><img src="https://pepy.tech/badge/disnake-components" /></a>
         <a href=""><img src="https://img.shields.io/pypi/l/disnake-components?style=flat-squareh" /></a>
 </div>
 <p align="center">
