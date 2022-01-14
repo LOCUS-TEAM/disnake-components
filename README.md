@@ -7,7 +7,7 @@
         <a href="https://discord.gg/BmuYyug3vd"><img alt="Discord" src="https://img.shields.io/discord/866331113512370186?logo=discord&style=flat-square"></a>
         <a href="https://pepy.tech/project/disnake-components"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/v/disnake-components?style=flat-squareh"></a>
         <a href="https://pypi.org/project/disnake-components/"><img src="https://pepy.tech/badge/disnake-components/month" /></a>
-        <a href=""><img src="https://img.shields.io/pypi/l/disnake-components?style=flat-square" /></a>
+        <a href=""><img src="https://img.shields.io/pypi/l/disnake-components?style=flat-squareh" /></a>
 </div>
 <p align="center">
     <h3>An unofficial third party library of disnake for discord components.</h3>
